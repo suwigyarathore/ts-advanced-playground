@@ -21,7 +21,7 @@ Then run typscript watch command to get all compiled files in *transpiled* folde
 
 ```[12:28:10] Found 0 errors. Watching for file changes. ```
 
-## Tips & Tricks
+## Advanced concepts
 
 * TS playground setup and testing setup
 * Number separtors for better readability
