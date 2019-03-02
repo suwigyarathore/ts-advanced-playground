@@ -28,6 +28,7 @@ Then run typscript watch command to get all compiled files in *transpiled* folde
 * User safter and strict property initialization
 * Use *in* operator for automatic type inference
 * Automatic infer types in switch statements
+* Mapped typed modifier
 
 
 
