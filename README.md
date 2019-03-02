@@ -1,5 +1,7 @@
 # Advanced Typescript Playground
 
+![Alt text](/maxresdefault.jpg "Optional Title")
+
 This repository shows some tips and benefits of advanced typescript to make your life easier.
 
 ## Setup
