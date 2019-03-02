@@ -8,21 +8,20 @@ After cloning this repo run below commands in sequence in terminal
 
 ```yarn```
 
-Then run individual typscript files for getting output
+Then run typscript watch command to get all compiled files in *transpiled* folder
 
-``` yarn run ts-node basic.ts```
+``` yarn run tsc:w```
 
 
 ## Expected output
 
-`yarn run v1.9.4
-$/Users/suwigyarathore/Documents/ts-play/node_modules/.bin/ts-node basic.ts
-basicValue
-✨  Done in 0.80s. `
+```[12:28:09] Starting compilation in watch mode...```
+
+```[12:28:10] Found 0 errors. Watching for file changes. ```
 
 ## Tips & Tricks
 
 * TS playground setup and testing setup
-* *in* operator for automatic type inference
+* Number separtors for better readability
 
 
