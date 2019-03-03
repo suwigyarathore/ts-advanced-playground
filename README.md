@@ -31,6 +31,7 @@ Then run typscript watch command to get all compiled files in *transpiled* folde
 * Mapped typed modifier
 * Self refrencing type aliases
 * Adding unknown types
+* Conditional types and function overloading
 
 
 
