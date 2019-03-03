@@ -33,6 +33,7 @@ Then run typscript watch command to get all compiled files in *transpiled* folde
 * Adding unknown types
 * Conditional types and function overloading
 * Flatten type
+* Dynamically infer Return type
 
 
 
